@@ -1,7 +1,8 @@
 # PrimeFlix
+![Captura de tela 2024-03-19 142522](https://github.com/lucasgomesdacruz/primeflix/assets/112510742/dedf4e7d-1f36-4af2-9540-8fb3068d0dca)
 
 ## 🔥 introdução
-Integrando uma API para o catálogo de filmes, o usuário poderá salvar o filme em uma lista de favoritos e assistir ao trailer do filme
+Integrando uma API para o catálogo de filmes, o usuário poderá salvar o filme em uma lista de favoritos e assistir ao trailer do filme, desenvolvido com HTML, CSS, JavaScript e React
 
 ## Instalação
 1. Clone o repositório: `git clone https://github.com/seu-usuario/primeflix.git`
