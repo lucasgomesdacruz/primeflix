@@ -5,7 +5,7 @@
 Integrando uma API para o catálogo de filmes, o usuário poderá salvar o filme em uma lista de favoritos e assistir ao trailer do filme, desenvolvido com HTML, CSS, JavaScript e React
 
 ## Instalação
-1. Clone o repositório: `git clone https://github.com/seu-usuario/primeflix.git`
+1. Clone o repositório: `git clone https://github.com/lucasgomesdacruz/primeflix.git`
 2. Navegue até o diretório do projeto
 3. Instale as dependências: `npm install`
 4. Inicie o aplicativo: `npm start`
